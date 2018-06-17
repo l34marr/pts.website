@@ -1,0 +1,6 @@
+[report]
+include =
+    src/pts/*
+omit =
+    */test*
+    */upgrades/*
